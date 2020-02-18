@@ -17,3 +17,5 @@ Mobile store application implementing following angular features
 
 
 StackBlitz : https://angularsidd01-rwnkug.stackblitz.io/
+
+Added webhook to test Azure Functions
